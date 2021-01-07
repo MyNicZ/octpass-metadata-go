@@ -25,9 +25,9 @@ Pull Requestを作成する前に、必ず下記情報をお読みください�
 * バグ修正はmainブランチに提出する必要があります。
 * 64文字以内の説明的なタイトルを使用してください。これは、PRがマージされるときにコミットメッセージとして使用されます。
 * 変更と機能のリクエストについては、解決しようとしていることの例とマークアップの例を含めてください。ただし、最初にIssueを作成することをお勧めします。
-* `Fixes #1234`または`Resolves #1234`のように、PRが解決するIssue＃を参照してください。
+* `Fixes #1234`または`Resolves #1234`のように、PRが解決する問題＃を参照してください。
 
 ## License
 本リポジトリは、[MIT License](./LICENSE)で公開されています。
 
-Oct-Pass is released under the [MIT License](./LICENSE).
+MCH+ Contracts is released under the [MIT License](./LICENSE).
